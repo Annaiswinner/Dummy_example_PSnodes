@@ -1,0 +1,43 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.09737,31.45106 ]
+    },
+    "properties": {
+    "PSSE New BUS":38001,
+    "SSWG Bus Name":"TNPYOTE___1",
+    "SSWG kV":138,
+    "Weather Zone":"WZ_FAR_WEST",
+    "Settlement Zone":"LZ_WEST",
+    "Planning Bus Long Name":"PYOTE SUBSTATION",
+    "TSP":"TNMP",
+    "County":"WARD",
+    "Utility EIA ID":40051,
+    "Zip Code":79777
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.35925,31.19997 ]
+    },
+    "properties": {
+    "PSSE New BUS":38069,
+    "SSWG Bus Name":"TNFLATTOP_1",
+    "SSWG kV":138,
+    "Weather Zone":"WZ_FAR_WEST",
+    "Settlement Zone":"LZ_WEST",
+    "Planning Bus Long Name":"FLAT TOP SUBSTATION",
+    "TSP":"TNMP",
+    "County":"REEVES",
+    "Utility EIA ID":40051,
+    "Zip Code":79772
+    }
+  }
+]
+}
