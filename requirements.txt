@@ -4,3 +4,4 @@ ipywidgets
 ipyleaflet
 geopandas
 ipyvuetify
+pyodbc
