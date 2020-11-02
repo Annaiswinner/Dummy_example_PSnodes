@@ -1,0 +1,1391 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.90799,30.59791 ]
+    },
+    "properties": {
+    "Bus Number":900000,
+    "Bus Name":"Bus_1",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.02626,30.74161 ]
+    },
+    "properties": {
+    "Bus Number":900001,
+    "Bus Name":"Bus_2",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.01626,30.74661 ]
+    },
+    "properties": {
+    "Bus Number":900002,
+    "Bus Name":"Bus_3",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.0911,30.4605 ]
+    },
+    "properties": {
+    "Bus Number":900003,
+    "Bus Name":"Bus_4",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.27729,30.30316 ]
+    },
+    "properties": {
+    "Bus Number":900004,
+    "Bus Name":"Bus_5",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.92823,30.70111 ]
+    },
+    "properties": {
+    "Bus Number":900005,
+    "Bus Name":"Bus_6",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.91823,30.70611 ]
+    },
+    "properties": {
+    "Bus Number":900006,
+    "Bus Name":"Bus_7",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.88559,30.82552 ]
+    },
+    "properties": {
+    "Bus Number":900007,
+    "Bus Name":"Bus_8",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.20243,30.67415 ]
+    },
+    "properties": {
+    "Bus Number":900008,
+    "Bus Name":"Bus_9",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.19243,30.67915 ]
+    },
+    "properties": {
+    "Bus Number":900009,
+    "Bus Name":"Bus_10",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.18424,30.68273 ]
+    },
+    "properties": {
+    "Bus Number":900010,
+    "Bus Name":"Bus_11",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.95381,30.97973 ]
+    },
+    "properties": {
+    "Bus Number":900011,
+    "Bus Name":"Bus_12",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.94381,30.98473 ]
+    },
+    "properties": {
+    "Bus Number":900012,
+    "Bus Name":"Bus_13",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.5465,31.11436 ]
+    },
+    "properties": {
+    "Bus Number":900013,
+    "Bus Name":"Bus_14",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.47572,30.95928 ]
+    },
+    "properties": {
+    "Bus Number":900014,
+    "Bus Name":"Bus_15",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.46572,30.96428 ]
+    },
+    "properties": {
+    "Bus Number":900015,
+    "Bus Name":"Bus_16",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4059,31.03647 ]
+    },
+    "properties": {
+    "Bus Number":900016,
+    "Bus Name":"Bus_17",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.40552,31.02995 ]
+    },
+    "properties": {
+    "Bus Number":900017,
+    "Bus Name":"Bus_18",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.41117,30.95488 ]
+    },
+    "properties": {
+    "Bus Number":900018,
+    "Bus Name":"Bus_19",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.40117,30.95988 ]
+    },
+    "properties": {
+    "Bus Number":900019,
+    "Bus Name":"Bus_20",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.08453,31.20981 ]
+    },
+    "properties": {
+    "Bus Number":900020,
+    "Bus Name":"Bus_21",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.07453,31.21481 ]
+    },
+    "properties": {
+    "Bus Number":900021,
+    "Bus Name":"Bus_22",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.29769,30.93032 ]
+    },
+    "properties": {
+    "Bus Number":900022,
+    "Bus Name":"Bus_23",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.18663,31.52089 ]
+    },
+    "properties": {
+    "Bus Number":900023,
+    "Bus Name":"Bus_24",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.03198,31.50914 ]
+    },
+    "properties": {
+    "Bus Number":900024,
+    "Bus Name":"Bus_25",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.02198,31.51414 ]
+    },
+    "properties": {
+    "Bus Number":900025,
+    "Bus Name":"Bus_26",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.95196,31.2149 ]
+    },
+    "properties": {
+    "Bus Number":900026,
+    "Bus Name":"Bus_27",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.29584,31.09142 ]
+    },
+    "properties": {
+    "Bus Number":900027,
+    "Bus Name":"Bus_28",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.20204,31.18712 ]
+    },
+    "properties": {
+    "Bus Number":900028,
+    "Bus Name":"Bus_29",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.46995,31.02349 ]
+    },
+    "properties": {
+    "Bus Number":900029,
+    "Bus Name":"Bus_30",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.55353,30.91855 ]
+    },
+    "properties": {
+    "Bus Number":900030,
+    "Bus Name":"Bus_31",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.60775,31.07688 ]
+    },
+    "properties": {
+    "Bus Number":900031,
+    "Bus Name":"Bus_32",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.59775,31.08188 ]
+    },
+    "properties": {
+    "Bus Number":900032,
+    "Bus Name":"Bus_33",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.77495,31.24597 ]
+    },
+    "properties": {
+    "Bus Number":900033,
+    "Bus Name":"Bus_34",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.32289,31.14972 ]
+    },
+    "properties": {
+    "Bus Number":900034,
+    "Bus Name":"Bus_35",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.31289,31.15472 ]
+    },
+    "properties": {
+    "Bus Number":900035,
+    "Bus Name":"Bus_36",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.432223,31.193576 ]
+    },
+    "properties": {
+    "Bus Number":900036,
+    "Bus Name":"Bus_37",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.422223,31.198576 ]
+    },
+    "properties": {
+    "Bus Number":900037,
+    "Bus Name":"Bus_38",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.31048,32.92245 ]
+    },
+    "properties": {
+    "Bus Number":900038,
+    "Bus Name":"Bus_39",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.80612,31.577 ]
+    },
+    "properties": {
+    "Bus Number":900039,
+    "Bus Name":"Bus_40",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.79612,31.582 ]
+    },
+    "properties": {
+    "Bus Number":900040,
+    "Bus Name":"Bus_41",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.09114,31.51392 ]
+    },
+    "properties": {
+    "Bus Number":900041,
+    "Bus Name":"Bus_42",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.44633,31.65523 ]
+    },
+    "properties": {
+    "Bus Number":900042,
+    "Bus Name":"Bus_43",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.43633,31.66023 ]
+    },
+    "properties": {
+    "Bus Number":900043,
+    "Bus Name":"Bus_44",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.06938,31.37299 ]
+    },
+    "properties": {
+    "Bus Number":900044,
+    "Bus Name":"Bus_45",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.54585,31.75434 ]
+    },
+    "properties": {
+    "Bus Number":900045,
+    "Bus Name":"Bus_46",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.2169,31.73846 ]
+    },
+    "properties": {
+    "Bus Number":900046,
+    "Bus Name":"Bus_47",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.2069,31.74346 ]
+    },
+    "properties": {
+    "Bus Number":900047,
+    "Bus Name":"Bus_48",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.98559,31.75914 ]
+    },
+    "properties": {
+    "Bus Number":900048,
+    "Bus Name":"Bus_49",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40609,31.91546 ]
+    },
+    "properties": {
+    "Bus Number":900049,
+    "Bus Name":"Bus_50",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.26497,31.9071 ]
+    },
+    "properties": {
+    "Bus Number":900050,
+    "Bus Name":"Bus_51",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.67449,31.11055 ]
+    },
+    "properties": {
+    "Bus Number":900051,
+    "Bus Name":"Bus_52",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.23672,31.25228 ]
+    },
+    "properties": {
+    "Bus Number":900052,
+    "Bus Name":"Bus_53",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.5926,30.86624 ]
+    },
+    "properties": {
+    "Bus Number":900053,
+    "Bus Name":"Bus_54",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.13627,31.20436 ]
+    },
+    "properties": {
+    "Bus Number":900054,
+    "Bus Name":"Bus_55",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.86834,31.08103 ]
+    },
+    "properties": {
+    "Bus Number":900055,
+    "Bus Name":"Bus_56",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.39729,30.96963 ]
+    },
+    "properties": {
+    "Bus Number":900056,
+    "Bus Name":"Bus_57",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.02741,31.0926 ]
+    },
+    "properties": {
+    "Bus Number":900057,
+    "Bus Name":"Bus_58",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.97188,31.09148 ]
+    },
+    "properties": {
+    "Bus Number":900058,
+    "Bus Name":"Bus_59",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.84035,31.36401 ]
+    },
+    "properties": {
+    "Bus Number":900059,
+    "Bus Name":"Bus_60",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.67237,31.38585 ]
+    },
+    "properties": {
+    "Bus Number":900060,
+    "Bus Name":"Bus_61",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.77359,31.32002 ]
+    },
+    "properties": {
+    "Bus Number":900061,
+    "Bus Name":"Bus_62",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.76359,31.32502 ]
+    },
+    "properties": {
+    "Bus Number":900062,
+    "Bus Name":"Bus_63",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.04133,31.3279 ]
+    },
+    "properties": {
+    "Bus Number":900063,
+    "Bus Name":"Bus_64",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.20325,29.58575 ]
+    },
+    "properties": {
+    "Bus Number":900064,
+    "Bus Name":"Bus_65",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.71228,32.36014 ]
+    },
+    "properties": {
+    "Bus Number":900065,
+    "Bus Name":"Bus_66",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.70567,31.61018 ]
+    },
+    "properties": {
+    "Bus Number":900066,
+    "Bus Name":"Bus_67",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.90372,31.68185 ]
+    },
+    "properties": {
+    "Bus Number":900067,
+    "Bus Name":"Bus_68",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.58868,31.72546 ]
+    },
+    "properties": {
+    "Bus Number":900068,
+    "Bus Name":"Bus_69",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.51296,31.70532 ]
+    },
+    "properties": {
+    "Bus Number":900069,
+    "Bus Name":"Bus_70",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.91982,31.7413 ]
+    },
+    "properties": {
+    "Bus Number":900070,
+    "Bus Name":"Bus_71",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.02649,31.79924 ]
+    },
+    "properties": {
+    "Bus Number":900071,
+    "Bus Name":"Bus_72",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.69575,31.80712 ]
+    },
+    "properties": {
+    "Bus Number":900072,
+    "Bus Name":"Bus_73",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.56101,31.87775 ]
+    },
+    "properties": {
+    "Bus Number":900073,
+    "Bus Name":"Bus_74",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.56746,31.8029 ]
+    },
+    "properties": {
+    "Bus Number":900074,
+    "Bus Name":"Bus_75",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6489,31.92024 ]
+    },
+    "properties": {
+    "Bus Number":900075,
+    "Bus Name":"Bus_76",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.53437,32.05621 ]
+    },
+    "properties": {
+    "Bus Number":900076,
+    "Bus Name":"Bus_77",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.59508,32.07597 ]
+    },
+    "properties": {
+    "Bus Number":900077,
+    "Bus Name":"Bus_78",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.60645,32.20951 ]
+    },
+    "properties": {
+    "Bus Number":900078,
+    "Bus Name":"Bus_79",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.19351,31.69288 ]
+    },
+    "properties": {
+    "Bus Number":900079,
+    "Bus Name":"Bus_80",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.86234,32.35626 ]
+    },
+    "properties": {
+    "Bus Number":900080,
+    "Bus Name":"Bus_81",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7195,32.78466 ]
+    },
+    "properties": {
+    "Bus Number":900081,
+    "Bus Name":"Bus_82",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.80559,32.51545 ]
+    },
+    "properties": {
+    "Bus Number":900082,
+    "Bus Name":"Bus_83",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.80196,32.39809 ]
+    },
+    "properties": {
+    "Bus Number":900083,
+    "Bus Name":"Bus_84",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.26215,32.31526 ]
+    },
+    "properties": {
+    "Bus Number":900084,
+    "Bus Name":"Bus_85",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.32015,32.20469 ]
+    },
+    "properties": {
+    "Bus Number":900085,
+    "Bus Name":"Bus_86",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.94152,32.45639 ]
+    },
+    "properties": {
+    "Bus Number":900086,
+    "Bus Name":"Bus_87",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.93152,32.46139 ]
+    },
+    "properties": {
+    "Bus Number":900087,
+    "Bus Name":"Bus_88",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.46767,32.70641 ]
+    },
+    "properties": {
+    "Bus Number":900088,
+    "Bus Name":"Bus_89",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.45767,32.71141 ]
+    },
+    "properties": {
+    "Bus Number":900089,
+    "Bus Name":"Bus_90",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.89192,32.89069 ]
+    },
+    "properties": {
+    "Bus Number":900090,
+    "Bus Name":"Bus_91",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9577,32.91776 ]
+    },
+    "properties": {
+    "Bus Number":900091,
+    "Bus Name":"Bus_92",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9477,32.92276 ]
+    },
+    "properties": {
+    "Bus Number":900092,
+    "Bus Name":"Bus_93",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.81626,32.7681 ]
+    },
+    "properties": {
+    "Bus Number":900093,
+    "Bus Name":"Bus_94",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.80626,32.7731 ]
+    },
+    "properties": {
+    "Bus Number":900094,
+    "Bus Name":"Bus_95",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.79506,32.77581 ]
+    },
+    "properties": {
+    "Bus Number":900095,
+    "Bus Name":"Bus_96",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.78506,32.78081 ]
+    },
+    "properties": {
+    "Bus Number":900096,
+    "Bus Name":"Bus_97",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.30106,32.52895 ]
+    },
+    "properties": {
+    "Bus Number":900097,
+    "Bus Name":"Bus_98",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2497,32.17644 ]
+    },
+    "properties": {
+    "Bus Number":900098,
+    "Bus Name":"Bus_99",
+    "kV Level":23,
+    "Load Zone":"Zone_1",
+    "TSP Name":"TSP_1"
+    }
+  }
+]
+}
